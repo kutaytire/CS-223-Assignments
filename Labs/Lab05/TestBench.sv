@@ -1,8 +1,5 @@
 `timescale 1ns / 1ps
 
-
-
-
 module TestBench( );
 
  logic clk,reset, SA, SB;
